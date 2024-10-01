@@ -12,4 +12,3 @@ This project demonstrates a simple image processing application using CUDA and O
 - **CUDA**: For parallel processing on the GPU.
 - **OpenCV**: For image loading, processing, and display.
 - **C++**: The programming language used for implementation.
-- 
